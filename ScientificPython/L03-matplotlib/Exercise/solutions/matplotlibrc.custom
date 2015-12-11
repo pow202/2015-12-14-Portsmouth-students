@@ -1,0 +1,13 @@
+# Font sizes and types
+axes.labelsize  : 9.0  # fontsize of the x any y labels  
+xtick.labelsize : 9.0  # fontsize of the tick labels  
+ytick.labelsize : 9.0  # fontsize of the tick labels  
+legend.fontsize : 9.0  # fontsize in legend
+font.family     : serif  
+font.serif      : Computer Modern Roman
+
+# Marker size
+lines.markersize  : 3
+
+# Use TeX to format all text
+text.usetex : True
